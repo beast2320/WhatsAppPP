@@ -2,6 +2,10 @@
 
 **Changelog**
 
+8/14/2017
+
+ - Updated WhatsApp++ to it's latest Tweak version
+
 7/30/2017
  - Updated Watusi fo App Version 2.17.41 and Tweak 1.0.14
  - Updated WhatsPad++ to latest versions
