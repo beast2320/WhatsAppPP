@@ -2,6 +2,8 @@
 
 **Changelog**
 
+**[Issue Repo Here](https://github.com/eni9889/WA-PP-Issues)**
+
 8/14/2017
 
  - Updated WhatsApp++ to it's latest Tweak version
@@ -18,13 +20,6 @@
 
  - Re-uploaded to include new fixes
 
-7/18/2017
-
- - Updated WhatsApp++ to App Version 2.17.40
-
-7/13/2017
-
- - 1.6r-80 Fixes Tweet to remove ads. Also adds a button for Tweting to remove ads.
 
 Unlimapps WhatsApp++ IPA Repo
 
