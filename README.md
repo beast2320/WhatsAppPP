@@ -4,6 +4,10 @@
 
 **[Issue Repo Here](https://github.com/eni9889/WA-PP-Issues)**
 
+9/21/2017
+
+ - Updated WhatsApp++ to Latest App and Tweak Versions
+
 9/18/2017
 
  - Updated WhatsApp++ to App Version 2.17.52
