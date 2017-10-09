@@ -4,6 +4,10 @@
 
 **[Issue Repo Here](https://github.com/eni9889/WA-PP-Issues)**
 
+10/9/2017
+
+ - Updated to App Version 2.17.60
+
 9/23/2017
 
  - Fixed the IPA so they match their IPA names.
