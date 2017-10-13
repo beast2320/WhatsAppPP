@@ -4,6 +4,12 @@
 
 **[Issue Repo Here](https://github.com/eni9889/WA-PP-Issues)**
 
+10/13/2017
+
+ - Updated WhatsApp++ to App Version 2.17.61
+ - Updated WhatsPad++ to App Version 2.17.61
+ - Updated WhatsPad w/ Watusi to App Version 2.17.61
+
 10/9/2017
 
  - Updated to App Version 2.17.60
@@ -34,7 +40,7 @@
  - Updated WhatsApp++ to it's latest Tweak version
 
 7/30/2017
- - Updated Watusi fo App Version 2.17.41 and Tweak 1.0.14
+ - Updated Watusi for App Version 2.17.41 and Tweak 1.0.14
  - Updated WhatsPad++ to latest versions
 
 7/28/2017
